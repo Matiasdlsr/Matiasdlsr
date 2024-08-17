@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Matiasdlsr
-- 👀 I’m interested in Full Stack Web Develop
-- 🌱 I’m currently learning React, Angular, Node, JavaScript
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Full Stack Develop
+- 🌱 I’m currently learning React, MongoDB, Node JS
+- 📫 I'm improving my english, currently B1
+- ⚡ Hobbies: Swimming.
 
 <!---
 Matiasdlsr/Matiasdlsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
