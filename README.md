@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matiasdlsr
 - 👀 I’m interested in Full Stack Develop
-- 🌱 I’m currently learning React, MongoDB, Node JS
+- 🌱 I’m currently learning React, C#
 - 📫 I'm improving my english, currently B1
 - ⚡ Hobbies: Swimming.
 
