@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matiasdlsr
-- 👀 I’m interested in Full Stack Develop
+- 👀 I’m Full Stack Developer
 - 📫 I'm improving my english, currently B2
-- ⚡ Hobbies: Swimming.
+- ⚡ Hobbies: Swimming, Videogames and music.
 
 <!---
 Matiasdlsr/Matiasdlsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
